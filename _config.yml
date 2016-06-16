@@ -6,13 +6,13 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Family Photo Blog
-email: jjwhite01@gmail.com
+title: Jon White's Photo Blog
 description: > # this means to ignore newlines until "baseurl:"
-  The primary purpose of this blog is to improve my photography by posting a weekly photograph. 
+  Welcome to my simple photoblog where I post a weekly photo (usually of my family).  In each post I'll tell a short story about the photograph along with some technical details.  The purpose of this site is to document my family's life while hopefully improving my photography in the process.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "http://photoblog.jonwhite.me" # the base hostname & protocol for your site
 twitter_username: jjwhite
+instagram_username: jjwhite
 
 # Build settings
 markdown: kramdown
